@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tech-Thiago
-- 👀 I’m interested in vagas de emprego na área de programação
-- 🌱 I’m currently learning python e html 
-- 💞️ I’m looking to collaborate on  em projetos
-- 📫 How to reach me, por meio do email, thiago.silvafisic@gmail.com
+- 👋 Olá, Eu sou @Tech-Thiago
+- 👀 Estou interessado em vagas de emprego na área de programação
+- 🌱 Atualmente estou aprendendo python e html.
+- 💞️ Procuro colaborar em projetos.
+- 📫 Como chegar até mim ? Pode ser por meio do email, thiago.silvafisic@gmail.com
 
 <!---
 Tech-Thiago/Tech-Thiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
