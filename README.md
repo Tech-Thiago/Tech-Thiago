@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou @Tech-Thiago.
 - 👀 Estou interessado em vagas de emprego na área de programação.
-- 🌱 Atualmente estou aprenden python e html.
+- 🌱 Atualmente estou aprenden Python e JavaScript.
 - 💞️ Procuro colaborar em projetos.
 - 📫 Como chegar até mim ? Pode ser por meio do email, thiago.silvafisic@gmail.com
 
